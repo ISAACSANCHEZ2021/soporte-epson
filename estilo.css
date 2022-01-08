@@ -224,20 +224,19 @@ body
     margin: 0;
     padding: 0 0 15px 0;
     background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 .titulo
 {
-    width: 97%;
+    width: 530px;
     height: 33vh;
     margin: 0;
     padding: 0 0 15px 0;
     background-repeat: no-repeat;
-    background-size: 100% 222px;
+    background-size: 100% 227px;
     position: relative;
     top: 0;
     right: 0;
-    left: 8px;
+    left: 5px;
 }
 .titulo2
 {
@@ -296,7 +295,7 @@ body
     position: absolute;
     top: 713px;
     right: 0;
-    left: 449px;
+    left: 455px;
 }
 .final
 {
